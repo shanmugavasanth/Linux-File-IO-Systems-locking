@@ -38,6 +38,9 @@ int main()
     exit(0);
 }
 ```
+## OUTPUT
+
+![image](https://github.com/shanmugavasanth/Linux-File-IO-Systems-locking/assets/144870621/f85adf43-1457-41ec-8858-ed3e0e461a0f)
 
 ## 2.To Write a C program that illustrates files locking
 
@@ -88,8 +91,7 @@ int main (int argc, char* argv[])
 
 ## OUTPUT
 
-
-
+![image](https://github.com/shanmugavasanth/Linux-File-IO-Systems-locking/assets/144870621/9aabcf29-952a-4265-bfb2-49d4b50919ae)
 
 
 # RESULT:
